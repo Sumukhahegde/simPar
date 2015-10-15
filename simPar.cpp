@@ -4,6 +4,8 @@
 static long steps=1000000;
 double step_size;
 
+//adding this line to test diff in git
+
 int main ()
 {
 	
